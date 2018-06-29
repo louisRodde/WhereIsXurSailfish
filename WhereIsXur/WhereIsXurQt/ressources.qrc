@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/borealis.png</file>
+        <file>imgs/coldheart.png</file>
+        <file>imgs/colony.jpg</file>
+        <file>imgs/crimson.jpg</file>
+        <file>imgs/darci.png</file>
+        <file>imgs/fighting_lion.png</file>
+        <file>imgs/graviton.png</file>
+        <file>imgs/hard_light.png</file>
+        <file>imgs/huckleberry.jpg</file>
+        <file>imgs/jade_rabbit.png</file>
+        <file>imgs/legend_of_acrius.png</file>
+        <file>imgs/merciless.png</file>
+        <file>imgs/mida.png</file>
+        <file>imgs/polaris_lance.jpg</file>
+        <file>imgs/prometheus_lens.png</file>
+        <file>imgs/prospector.png</file>
+        <file>imgs/rat_king.png</file>
+        <file>imgs/riskrunner.png</file>
+        <file>imgs/skyburner.png</file>
+        <file>imgs/sleeper_simulant.jpg</file>
+        <file>imgs/sunshot.png</file>
+        <file>imgs/suros.jpg</file>
+        <file>imgs/sweet_business.png</file>
+        <file>imgs/telesto.jpg</file>
+        <file>imgs/tractor.png</file>
+        <file>imgs/vigilence.png</file>
+        <file>imgs/wardcliff.png</file>
+        <file>imgs/worldline.jpg</file>
+        <file>weapons.json</file>
+        <file>cover.jpg</file>
+    </qresource>
+</RCC>
